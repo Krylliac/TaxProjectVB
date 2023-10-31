@@ -1,1 +1,1 @@
-# basic application with VB for calculating tax in indonesian standart tax price, include tax for income and tax for property
+# Basic application with VB, using powerpacks 3.0 for front end,this app is for calculating tax in indonesian standart tax price, include tax for income and tax for property
